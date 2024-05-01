@@ -4,10 +4,12 @@ Hello, as ProtoclGEE pulls from Google Earth Engine to my local repository and t
 
 Entry 2: Night Time Lights
 
-![NTL](Night Time Lights.png)
+![NTL](Night_Time_Lights.png)
 
 Tutorial Source: https://github.com/gena/earthengine-api
 
 Entry 1: NDVI Timelapse
+
+![NDVI_Timelapse](NDVI_Timelapse.gif)
 
 Tutorial Source: https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation
