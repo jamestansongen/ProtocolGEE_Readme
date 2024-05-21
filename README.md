@@ -4,9 +4,9 @@ Hello, as ProtocolGEE pulls from Google Earth Engine to my local repository and 
 
 ## **Entry 3: War at Night**
 
-![WAN](WarAtNights.gif)
+![WAN](WarAtNight.gif)
 
-Tutorial Source: [War at Night](https://github.com/gena/earthengine-api](https://bellingcat.github.io/RS4OSINT/C1_Lights.html)
+Tutorial Source: [War at Night](https://bellingcat.github.io/RS4OSINT/C1_Lights.html)
 
 ## **Entry 2: Night Time Lights**
 
